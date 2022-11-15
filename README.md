@@ -16,6 +16,7 @@
 
 ### Languages and Tools:
 
+<section>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;padding-bottom:100px;" />
 
@@ -35,6 +36,8 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;padding-bottom:100px;" />
 <img align="left" alt="PostgreSQL" width="26px" src="./img/postgresql.png" style="padding-right:10px;padding-bottom:100px;" />
 <img align="left" alt="AWS" width="26px" src="./img/aws.png" style="padding-bottom:200px;" />
+
+<section />
 
 <br />
 <br />
