@@ -1,7 +1,7 @@
 <style>
   img[alt="VisualStudioCode"] {
-    max-width: 100%;
     width: 26px;
+    height: 26px;
   }
 </style>
 
