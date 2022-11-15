@@ -1,3 +1,10 @@
+<style>
+  img[alt="VisualStudioCode"] {
+    max-width: 100%;
+    width: 26px;
+  }
+</style>
+
 # Hi there, I'm Petar 👋
 
 ## I'm Full-Stack JavaScript Web Developer
