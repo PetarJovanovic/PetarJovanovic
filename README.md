@@ -41,7 +41,7 @@
 
 ---
 
-<img align="left" alt="Petar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PetarJovanovic&show_icons=true&hide_border=true&bg_color=0000&align=left" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetarJovanovic&show_icons=true&hide_border=true&bg_color=0000&align=left)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
