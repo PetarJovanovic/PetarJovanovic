@@ -1,7 +1,5 @@
 # Hi there, I'm Petar 👋
 
-[Portfolio](https://www.petar.no)
-
 ## I'm Full-Stack JavaScript Developer
 
 - 🌱 I’m currently working at </salt> as Full-Stack Developer
