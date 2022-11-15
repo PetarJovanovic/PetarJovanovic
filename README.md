@@ -43,9 +43,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetarJovanovic&show_icons=true&hide_border=true&bg_color=0000&align=left)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
-<br />
-
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetarJovanovic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
