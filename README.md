@@ -1,10 +1,3 @@
-<style>
-  img[alt="VisualStudioCode"] {
-    width: 26px;
-    height: 26px;
-  }
-</style>
-
 # Hi there, I'm Petar 👋
 
 ## I'm Full-Stack JavaScript Web Developer
@@ -23,15 +16,13 @@
 
 ### Languages and Tools:
 
-![VisualStudioCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />](https://github.com/PetarJovanovic#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" />](https://github.com/PetarJovanovic#gh-light-mode-only)
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="HTML5" width="26px" style="border:solid 1px red" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="Tailwind" width="26px" src="./img/tailwind.png" />
@@ -46,10 +37,14 @@
 <img align="left" alt="PostgreSQL" width="26px" src="./img/postgresql.png" />
 <img align="left" alt="AWS" width="26px" src="./img/aws.png" />
 
----
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetarJovanovic&show_icons=true&hide_border=true&theme=transparent&count_private=true&hide=stars,prs,issues&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+<br>
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetarJovanovic&show_icons=true&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetarJovanovic&show_icons=true&hide_border=true&theme=transparent&count_private=true&hide=stars,prs,issues&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
