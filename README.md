@@ -1,6 +1,6 @@
 # Hi there, I'm Petar 👋
 
-[![Website]](https://www.petar.no)
+[Portfolio](https://www.petar.no)
 
 ## I'm Full-Stack JavaScript Developer
 
