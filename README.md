@@ -3,7 +3,7 @@
 ## I'm Full-Stack JavaScript Developer
 
 - 🌱 I’m currently working at </salt> as Full-Stack Developer
-- 👯 I'm perfecting JavaScript and .NET skill to become better web Developer
+- 👯 I'm perfecting JavaScript and .NET skill to become better Web Developer
 - 🥅 Goals: Learn more about DevOps, Kubernets, Azure and AWS.
 
 ### Connect with me:
@@ -30,3 +30,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+---
+
+<img align="left" alt="Petar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PetarJovanovic&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
