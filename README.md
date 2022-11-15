@@ -16,29 +16,26 @@
 
 ### Languages and Tools:
 
-<img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:0 10px 20px 0" />
-<img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding:0 10px 20px 0" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:10px" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding:10px" />
 
-[<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding:0 10px 20px 0padding-bottom:200px;" />](https://github.com/PetarJovanovic#gh-dark-mode-only)
-[<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding:0 10px 20px 0padding-bottom:200px;" />](https://github.com/PetarJovanovic#gh-light-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding:0 10px 20px 0padding-bottom:200px;" />](https://github.com/PetarJovanovic#gh-dark-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding:0 10px 20px 0padding-bottom:200px;" />](https://github.com/PetarJovanovic#gh-light-mode-only)
 
-<img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:0 10px 20px 0" />
-<img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding:0 10px 20px 0" />
-<img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding:0 10px 20px 0" />
-<img alt="Tailwind" width="26px" src="./img/tailwind.png" style="padding:0 10px 20px 0" />
-<img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:0 10px 20px 0padding-bottom:10px;" />
-<img alt="TypeScript" width="26px" src="./img/typescript.png" style="padding:0 10px 20px 0" />
-<img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding:0 10px 20px 0padding-bottom:10px;" />
-<img alt="Next.js" width="26px" src="./img/nextjs.png" style="padding:0 10px 20px 0" />
-<img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding:0 10px 20px 0padding-bottom:10px;" />
-<img alt="Express" width="26px" src="./img/express.png" style="padding:0 10px 20px 0" />
-<img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding:0 10px 20px 0" />
-<img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding:0 10px 20px 0" />
-<img alt="PostgreSQL" width="26px" src="./img/postgresql.png" style="padding:0 10px 20px 0" />
-<img alt="AWS" width="26px" src="./img/aws.png" style="padding:0 0 20px 0;" />
-
-<br />
-<br />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:10px" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding:10px" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding:10px" />
+<img align="left" alt="Tailwind" width="26px" src="./img/tailwind.png" style="padding:10px" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:0 10px 20px 0padding-bottom:10px;" />
+<img align="left" alt="TypeScript" width="26px" src="./img/typescript.png" style="padding:10px" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding:0 10px 20px 0padding-bottom:10px;" />
+<img align="left" alt="Next.js" width="26px" src="./img/nextjs.png" style="padding:10px" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding:0 10px 20px 0padding-bottom:10px;" />
+<img align="left" alt="Express" width="26px" src="./img/express.png" style="padding:10px" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding:10px" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding:10px" />
+<img align="left" alt="PostgreSQL" width="26px" src="./img/postgresql.png" style="padding:10px" />
+<img align="left" alt="AWS" width="26px" src="./img/aws.png" style="padding:0 0 20px 0;" />
 
 ---
 
