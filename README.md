@@ -2,7 +2,7 @@
 
 ## I'm Full-Stack JavaScript Developer
 
-- 🌱 I’m currently working at </salt> as Full-Stack Developer
+- 🌱 I’m currently working at `</salt>` as Full-Stack Developer
 - 👯 I'm perfecting JavaScript and .NET skill to become better Web Developer
 - 🥅 Goals: Learn more about DevOps, Kubernets, Azure and AWS.
 
