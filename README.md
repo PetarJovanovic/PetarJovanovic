@@ -36,7 +36,9 @@
 <img align="left" alt="PostgreSQL" width="26px" src="./img/postgresql.png" style="padding-right:10px;padding-bottom:100px;" />
 <img align="left" alt="AWS" width="26px" src="./img/aws.png" style="padding-bottom:200px;" />
 
-\s
+<br />
+<br />
+<br />
 
 ---
 
