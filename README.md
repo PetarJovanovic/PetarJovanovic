@@ -8,14 +8,15 @@
 
 ### Connect with me:
 
-![website](./img/globe-light.svg#gh-light-mode-only)
-![website](./img/globe-dark.svg#gh-dark-mode-only)
+[![website](./img/globe-light.svg#gh-light-mode-only)](https://www.petar.no/#gh-light-mode-only)
+[![website](./img/globe-dark.svg#gh-dark-mode-only)](https://www.petar.no/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/petarj/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/petarj/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
+![Visual Studio Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg =26x)
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
