@@ -10,7 +10,6 @@
 
 [![website](./img/globe-light.svg)](https://www.petar.no/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://www.petar.no/#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/petarj/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/petarj/#gh-dark-mode-only)
 
