@@ -16,7 +16,7 @@
 
 ### Languages and Tools:
 
-![VisualStudioCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg =26x)
+![VisualStudioCode]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" =26x)
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
