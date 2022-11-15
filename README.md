@@ -1,6 +1,6 @@
 # Hi there, I'm Petar 👋
 
-[![Website]](petar.no)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.petar.no)
 
 ## I'm Full-Stack JavaScript Developer
 
