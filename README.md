@@ -1,8 +1,8 @@
 # Hi there, I'm Petar 👋
 
-## I'm Full-Stack JavaScript Developer
+## I'm Full-Stack JavaScript Web Developer
 
-- 🌱 I’m currently working at [\</salt>](https://www.salt.dev/) as Full-Stack Developer
+- 🌱 I’m currently working at [\</salt>](https://www.salt.dev/) as Full-Stack Web Developer
 - 👯 I'm perfecting JavaScript and .NET skill to become better Web Developer
 - 🥅 Goals: Learn more about DevOps, Kubernets, Azure and AWS.
 
