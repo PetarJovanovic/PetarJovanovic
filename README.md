@@ -35,7 +35,6 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="PostgreSQL" width="26px" src="./img/postgresql.png" />
-<img align="left" alt="AWS" width="26px" src="./img/aws.png" />
 
 <br>
 <br>
