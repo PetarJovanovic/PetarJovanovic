@@ -2,7 +2,7 @@
 
 ## I'm Full-Stack JavaScript Web Developer
 
-- 🌱 I’m currently working at [\</salt>](https://www.salt.dev/) as Full-Stack Web Developer
+- 🌱 I’m currently working at [Airmine](https://airmine.ai/) as Full-Stack Developer
 - 👯 I'm perfecting JavaScript and .NET skill to become better Web Developer
 - 🥅 Goals: Learn more about DevOps, Kubernetes, Azure and AWS.
 
